@@ -30,12 +30,12 @@ Parameters:‎
 
 The path of opening the program in visual studio is as following:‎
 
-Podce->examples->podcd->podcd.SLN‎
+Podcd->examples->podcd->podcd.SLN‎
 
 ‎///////////////////////////////////////////////////////////////////‎
 
 
-Some ample networks presented in the following path:‎
+Some sample networks presented in the following path:‎
 Podce->sample networks‎
 
 ‎//////////////////////////////////////////////‎
